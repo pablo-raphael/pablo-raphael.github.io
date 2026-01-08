@@ -1,0 +1,35 @@
+{
+    "name": "Pablo Raphael Portfolio",
+    "short_name": "Pablo Portfolio",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#2F3138",
+    "theme_color": "#F2B352",
+    "description": "Portfolio of Pablo Raphael. Projects, skills, experience, and ways to get in touch.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
